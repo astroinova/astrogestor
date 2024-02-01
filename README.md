@@ -1,60 +1,31 @@
-## README Template
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## ☕ Selecione o README que deseja usar
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/iuricode/README-template/tree/main/README-profile)
-[![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md)
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
-## 🥳 Recursos para os READMEs
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-[![CARDS ESTRELAS](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFFF00)](https://github.com/iuricode/README-template/blob/main/README-cards-stars/cards-stars.md)
-[![Badges](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=0000FF)](https://github.com/iuricode/README-template/blob/main/badges/badges.md)
-
----
-
-
-## 🌈 Contribuidores<br>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars1.githubusercontent.com/u/43486606" width="100px;" alt="Foto do Marcelo Santos"/><br>
-        <sub>
-          <b>Marcelo Santos</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars0.githubusercontent.com/u/57146734" width="100px;" alt="Foto da Vanessa Swerts"/><br>
-        <sub>
-          <b>Vanessa Swerts</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## ⛩ Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
-
-## ⚖ Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
-
-## ℹ️ Informações do projeto
-
-![GitHub Repo stars](https://img.shields.io/github/stars/iuricode/README-template?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
